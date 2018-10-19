@@ -1,57 +1,5 @@
 # all_readme
 
-## beego_labs
-https://beego.me/docs/intro/upgrade.md
-
-|名称|简介|
-|---|---|
-|lab001|beego安装，和bee工具的简单实用|
-|lab002|bee工具的使用|
-|lab003|运行入门程序|
-|lab004|简单修改lab003，添加一些功能|
-|lab005|参数配置|
-|lab006|路由设置|
-|lab007|获取参数|
-|lab008|session|
-|lab009|过滤器|
-|lab010|静态文件处理|
-|lab011|orm的使用|
-|lab012|重定向|
-
-## data-labs
-这个是用python来分析数据的库
-
-|文件夹|简介|
-|---|---|
-|data_damai|大麦数据分析|
-
-### 注意点
- - 所有的读取文件的相对路径，都是从`data-labs`这个库的路径作为根目录开始的
-
-## docker-labs
-
-|文件夹|简介|说明|
-|---|---|---|
-|lab001|系统学习Docker||
-
-## elk-labs
-elk的一些实践
-
-|实验|简介|说明|
-|---|---|---|
-|lab001|airbnb数据的实验||
-|lab002|logstash配置文件整理||
-|lab003|nginx日志分析实验|
-|lab004|slg的elk整体结构|
-
-## fiddler_config
-fiddler的配置导出
-
-|文件夹|简介|说明|
-|---|---|---|
-|config_qunar|去哪儿网用的配置||
-|config_music163|网易云音乐的配置||
-
 ## go-labs
 
 |实验|简介|说明|
@@ -214,6 +162,39 @@ fiddler的配置导出
 |lab160|go-ffprobe，Library to easily get the ffprobe output of a given file|https://github.com/vansante/go-ffprobe|
 |lab161|散列哈希|
 
+## go-tools
+平时使用go写的一些程序
+
+|文件夹|简介|说明|
+|---|---|---|
+|tool_damai|大麦相关的一些工具|
+|tool_github_emoji|整理github上的emoji|
+|tool_search_import|在所有的gopath中查找指定的包|
+|tool_weibo|微博工具|
+|tool_httpbin|模仿httpbin|
+|tool_get_proxy|获得代理工具|
+|tool_study_163|网易云课堂|
+|tool_music_163|网易云音乐爬虫测试代码|
+|tool_yidukindle|易读kindde的自动注册|
+|tool_abuyun|阿布云代理的使用|
+|tool_pholcus|pholcus的一些实验代码|
+|tool_bus|上海公交app|
+|tool_dytt|电影天堂工具|
+|tool_weixin|微信文章|
+|tool_bilibili|哔哩哔哩|
+|tool_alicrm|逐白项目|模拟登录crm，读取工商数据|
+|tool_abuyun_util|阿布云的小工具|
+|tool_ruokuai|若快验证码识别|
+|tool_qunar_flight_inter|去哪儿国际机票|
+|tool_dianping|大众点评|
+|tool_lagou|拉钩网|
+|tool_boss_zhipin|boss直聘|
+|tool_liepin|猎聘网|
+|tool_qunar_hotel|去哪儿的国内酒店|
+|tool_qunar_flight_domestic|去哪儿的国内机票|
+|tool_xunfei|讯飞语音识别|
+|tool_csdn|CSDN的小工具|
+
 ## go-playground
 
 ### 暂定项目结构
@@ -249,38 +230,211 @@ fiddler的配置导出
 |play025|channel的使用|
 |play026|面试题目|
 
-## go-tools
-平时使用go写的一些程序
+## beego_labs
+https://beego.me/docs/intro/upgrade.md
+
+|名称|简介|
+|---|---|
+|lab001|beego安装，和bee工具的简单实用|
+|lab002|bee工具的使用|
+|lab003|运行入门程序|
+|lab004|简单修改lab003，添加一些功能|
+|lab005|参数配置|
+|lab006|路由设置|
+|lab007|获取参数|
+|lab008|session|
+|lab009|过滤器|
+|lab010|静态文件处理|
+|lab011|orm的使用|
+|lab012|重定向|
+
+## js-tools
 
 |文件夹|简介|说明|
 |---|---|---|
-|tool_damai|大麦相关的一些工具|
-|tool_github_emoji|整理github上的emoji|
-|tool_search_import|在所有的gopath中查找指定的包|
-|tool_weibo|微博工具|
-|tool_httpbin|模仿httpbin|
-|tool_get_proxy|获得代理工具|
-|tool_study_163|网易云课堂|
-|tool_music_163|网易云音乐爬虫测试代码|
-|tool_yidukindle|易读kindde的自动注册|
-|tool_abuyun|阿布云代理的使用|
-|tool_pholcus|pholcus的一些实验代码|
-|tool_bus|上海公交app|
-|tool_dytt|电影天堂工具|
-|tool_weixin|微信文章|
-|tool_bilibili|哔哩哔哩|
-|tool_alicrm|逐白项目|模拟登录crm，读取工商数据|
-|tool_abuyun_util|阿布云的小工具|
-|tool_ruokuai|若快验证码识别|
-|tool_qunar_flight_inter|去哪儿国际机票|
-|tool_dianping|大众点评|
-|tool_lagou|拉钩网|
-|tool_boss_zhipin|boss直聘|
-|tool_liepin|猎聘网|
+|tool_bus|对应go-tools里面的tool_bus||
+|tool_pholcus|pholcus的界面||
+|tool_slg|slg的一些界面|
+|tool_otp|一次密码生成|外包|
+|tool_alicrm|逐白项目|
+|tool_qunar_flight_inter|去哪儿网的国际机票|
 |tool_qunar_hotel|去哪儿的国内酒店|
+|tool_qunar_flight_domestic|去哪儿网的国内机票|
+
+## js-labs
+
+|实验|简介|说明|
+|---|---|---|
+|lab001|网易云音乐加密|
+|lab002|正则表达式|
+|lab003|多参数函数|
+|lab004|html5 localStorage|
+|lab005|behavior3，行为树例子|
+|lab006|网易云音乐加密分析|
+|lab007|crypto js 加解密|
+|lab008|protobuf|
+|lab009|rsa|
+|lab010|网易云音乐加密|
+|lab011|大麦测试|
+|lab012|createjs|
+|lab013|fuse，json()|
+|lab014|defuant,json(https://github.com/hbi99/defiant.js)|
+|lab015|sprintf.js|https://github.com/alexei/sprintf.js|
+|lab016|amaze ui后台模板|
+|lab017|途牛js分析|
+|lab018|httpbin模仿|
+|lab019|tool_proxy模板|
+|lab020|查看一个js的运行速度|
+|lab021|nodejs运行js文件|
+|lab022|网易云音乐加密js测试|
+|lab023|网易云音乐加密分析|
+|lab024|lab010用nodejs调用|
+|lab025|totalControl脚本|
+|lab026|高德地图|
+|lab027|chroma.js|颜色管理|
+|lab028|react|相关教程|
+|lab029|react教程|
+|lab030|layer,web弹层组件|https://github.com/sentsin/layui/|
+|lab031|Split.js|https://github.com/nathancahill/Split.js/|
+|lab032|bootstrap3||
+|lab033|ajax|
+|lab034|date，时间戳|
+|lab035|clipboard.js，剪贴板|https://github.com/zenorocha/clipboard.js|
+|lab036|watch.js|https://github.com/melanke/Watch.JS|
+|lab037|console打印||
+|lab038|Promise|
+|lab039|javascript语法测试|
+|lab040|reqwest|https://github.com/ded/reqwest/releases|
+|lab041|js读取本地文件|
+
+
+## py3-tools
+
+|文件夹|简介|说明|
+|---|---|---|
 |tool_qunar_flight_domestic|去哪儿的国内机票|
-|tool_xunfei|讯飞语音识别|
-|tool_csdn|CSDN的小工具|
+
+## py3-labs
+
+|实验|简介|说明|
+|---|---|---|
+|lab001|raven的使用|
+|lab002|appium|
+|lab003|百度语音python sdk||
+|lab004|读取文件|
+|lab005|解析json||
+|lab006|讯飞语音识别|
+|lab007|字符串|todo|
+|lab008|url encode|todo from urllib.parse import quote,quote('上海', 'utf-8'),unquote|
+|lab009|requests|todo|
+|lab010|编码|hex,sha1,md5|
+|lab011|写入文件|
+
+## py2-tools
+
+|文件夹|简介|说明|
+|---|---|---|
+|tool001|qunar_flight_domestic||
+
+
+## py2-labs
+
+|实验|简介|说明|
+|---|---|---|
+|lab001|网易云音乐||
+|lab002|httpbin||
+|lab003|读写文件|
+|lab004|json||
+|lab005|urlcode|
+|lab006|打印|
+|lab007|unicode和str|
+
+
+## linux_conf
+vim,zsh,tmux的配置文件
+
+`git clone https://github.com/liguoqinjim/linux_conf.git --depth 1`
+
+### 文件说明
+|文件|简介|说明|
+|---|---|---|
+|.tumx.conf|tmux的配置文件||
+|.zshrc|zsh的配置文件||
+|.vimrc|vim的配置文件|
+|.vimrc.bundles|vim的配置文件|
+|backup_conf.sh|用来备份配置文件到这个库的脚本|
+|download.sh|下载需要文件的脚本|
+|download_self.sh|下载需要的文件到data文件夹|是给这个库自己用的|
+|ss_install.sh|配置ss客户端还有proxychains4|直接使用data里面的数据，不用下载了|
+|vim_install.sh|源码安装vim|
+|yum_install.sh|yum安装一波|
+|tmux_install.sh|tmux安装|
+|zsh_install.sh|zsh安装|
+|java_install.sh|java安装|
+|copy_conf.sh|复制配置文件到$HOME|
+|conf_elk.sh|添加elk的一些系统配置|
+|proxychains.conf|proxychains的配置文件|路径是:/usr/local/etc/proxychains.conf|
+|change_yum_repo.sh|把yum的源换成163的|
+|data文件夹|一些要下载的直接放在这个里面了|一定要放压缩文件|
+|tar.sh|把整个库打包|
+|linux_conf.tar.gz|打包完之后的库|
+
+### 调用数据
+0. yum install -y git wget
+1. change_yum_repo.sh
+11. yum_install.sh
+2. ss_install.sh
+3. zsh_install.sh
+4. copy_conf.sh
+5. tmux_install.sh
+6. vim_install.sh
+
+
+## shell-labs
+
+|实验|简介|说明|
+|---|---|---|
+|lab001|时间戳||
+|lab002|拼接字符串||
+|lab003|打印|echo,printf|
+|lab004|判断两个文件是否相同|cmp,md5sum|
+|lab005|读取命令行参数||
+|lab006|字符串|
+|playground|随便写的代码，需要整理|
+
+## data-labs
+这个是用python来分析数据的库
+
+|文件夹|简介|
+|---|---|
+|data_damai|大麦数据分析|
+
+### 注意点
+ - 所有的读取文件的相对路径，都是从`data-labs`这个库的路径作为根目录开始的
+
+## docker-labs
+
+|文件夹|简介|说明|
+|---|---|---|
+|lab001|系统学习Docker||
+
+## elk-labs
+elk的一些实践
+
+|实验|简介|说明|
+|---|---|---|
+|lab001|airbnb数据的实验||
+|lab002|logstash配置文件整理||
+|lab003|nginx日志分析实验|
+|lab004|slg的elk整体结构|
+
+## fiddler_config
+fiddler的配置导出
+
+|文件夹|简介|说明|
+|---|---|---|
+|config_qunar|去哪儿网用的配置||
+|config_music163|网易云音乐的配置||
 
 ## idata
 数据圈的实验代码
@@ -296,3 +450,17 @@ fiddler的配置导出
 |---|---|---|
 |lab001|测试idea的项目结构||
 
+
+## phantomjs_labs
+phantomJs的一些实验脚本
+
+|文件夹|简介|
+|---|---|
+|surfer_test|测试surfer的时候用的脚本|
+|xiaomi_login|模拟小米登录|
+|damai_login|模拟大麦登录|
+|jd_login|模拟京东登录|
+|lab000|实验|
+|lab001|教程1|
+|lab002|教程2|
+|lab003|重定向|
