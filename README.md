@@ -1,5 +1,57 @@
 # all_readme
 
+## beego_labs
+https://beego.me/docs/intro/upgrade.md
+
+|名称|简介|
+|---|---|
+|lab001|beego安装，和bee工具的简单实用|
+|lab002|bee工具的使用|
+|lab003|运行入门程序|
+|lab004|简单修改lab003，添加一些功能|
+|lab005|参数配置|
+|lab006|路由设置|
+|lab007|获取参数|
+|lab008|session|
+|lab009|过滤器|
+|lab010|静态文件处理|
+|lab011|orm的使用|
+|lab012|重定向|
+
+## data-labs
+这个是用python来分析数据的库
+
+|文件夹|简介|
+|---|---|
+|data_damai|大麦数据分析|
+
+### 注意点
+ - 所有的读取文件的相对路径，都是从`data-labs`这个库的路径作为根目录开始的
+
+## docker-labs
+
+|文件夹|简介|说明|
+|---|---|---|
+|lab001|系统学习Docker||
+
+## elk-labs
+elk的一些实践
+
+|实验|简介|说明|
+|---|---|---|
+|lab001|airbnb数据的实验||
+|lab002|logstash配置文件整理||
+|lab003|nginx日志分析实验|
+|lab004|slg的elk整体结构|
+
+## fiddler_config
+fiddler的配置导出
+
+|文件夹|简介|说明|
+|---|---|---|
+|config_qunar|去哪儿网用的配置||
+|config_music163|网易云音乐的配置||
+
 ## go-labs
 
 |实验|简介|说明|
@@ -162,6 +214,41 @@
 |lab160|go-ffprobe，Library to easily get the ffprobe output of a given file|https://github.com/vansante/go-ffprobe|
 |lab161|散列哈希|
 
+## go-playground
+
+### 暂定项目结构
+有一个文件夹，里面的代码都是平时简单写的。这些代码都放在一个文件夹里面。
+根目录其他的文件是放，有的时候看到一遍文章，里面有的时候有实验的代码，可能还要写一下笔记的。这些代码可以单独放一个文件夹
+
+|文件夹|简介|说明|
+|---|---|---|
+|play001|Concurrency相关(goroutine,channel,mutex,select)|
+|play002|错误和异常的处理|
+|play003|mock|
+|play004|context|
+|play005|the behavior of channel|
+|play006|context|
+|play007|多个receiver接收同一个channel|
+|play008|map并发访问|
+|play009|reflect|
+|play010|ServeMux解析|
+|play011|defer gotchas|
+|play012|函数的接收者是值类型还是指针类型|
+|play013|golang/templates|
+|play014|golang里面的list(use slice as list in golang)|
+|play015|for语句(遍历slice，map问题)|
+|play016|随机数相关|
+|play017|变量作用域|
+|play018|Go语言参数传递是传值还是传引用|
+|play019|defer gotchas|
+|play020|sync.map|
+|play021|setting options|
+|play022|内存泄露|
+|play023|learn-go-with-tests|TDD的方式写go的代码|
+|play024|GO函数选项模式|将一个函数的参数设置为可选的方法|
+|play025|channel的使用|
+|play026|面试题目|
+
 ## go-tools
 平时使用go写的一些程序
 
@@ -194,3 +281,18 @@
 |tool_qunar_flight_domestic|去哪儿的国内机票|
 |tool_xunfei|讯飞语音识别|
 |tool_csdn|CSDN的小工具|
+
+## idata
+数据圈的实验代码
+
+|文件夹|简介|
+|---|---|
+|lab_data_analysis|python数据分析学习|
+
+
+## java-labs
+
+|实验|简介|文件夹|
+|---|---|---|
+|lab001|测试idea的项目结构||
+
