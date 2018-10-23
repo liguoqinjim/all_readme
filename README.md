@@ -195,6 +195,9 @@
 |tool_qunar_flight_domestic|去哪儿的国内机票|
 |tool_xunfei|讯飞语音识别|
 |tool_csdn|CSDN的小工具|
+|tool_github_api|使用github的api|
+|tool_isbn|ISBN爬虫|
+|tool_kindle|导出amazon里面的kindle书单|
 
 ## go-playground
 
