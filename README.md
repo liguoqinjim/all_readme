@@ -199,6 +199,7 @@
 |tool_github_api|使用github的api|
 |tool_isbn|ISBN爬虫|
 |tool_kindle|导出amazon里面的kindle书单|
+|tool_video|视频相关|
 
 ## go-playground
 
