@@ -163,6 +163,7 @@
 |lab161|散列哈希|
 |lab162|grequests|https://github.com/levigross/grequests|
 |lab163|clipboard，clipboard for golang|https://github.com/atotto/clipboard|
+|lab164|zap，Blazing fast, structured, leveled logging in Go|https://github.com/uber-go/zap|
 
 ## go-tools
 平时使用go写的一些程序
@@ -335,6 +336,7 @@ https://beego.me/docs/intro/upgrade.md
 |lab009|requests|todo|
 |lab010|编码|hex,sha1,md5|
 |lab011|写入文件|
+|lab012|时间戳|
 
 ## py2-tools
 
