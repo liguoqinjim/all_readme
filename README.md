@@ -201,6 +201,7 @@
 |tool_isbn|ISBN爬虫|
 |tool_kindle|导出amazon里面的kindle书单|
 |tool_video|视频相关|
+|tool_douban_book|豆瓣图书|
 
 ## go-playground
 
