@@ -388,6 +388,7 @@ vim,zsh,tmux的配置文件
 |data文件夹|一些要下载的直接放在这个里面了|一定要放压缩文件|
 |tar.sh|把整个库打包|
 |linux_conf.tar.gz|打包完之后的库|
+|get_go_repos.sh|clone几个常用的golang的库|
 
 ### 调用数据
 0. yum install -y git wget
@@ -410,7 +411,10 @@ vim,zsh,tmux的配置文件
 |lab004|判断两个文件是否相同|cmp,md5sum|
 |lab005|读取命令行参数||
 |lab006|字符串|
+|lab007|if else|
+|lab008|字符串替换|
 |playground|随便写的代码，需要整理|
+
 
 ## data-labs
 这个是用python来分析数据的库
