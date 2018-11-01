@@ -63,7 +63,7 @@
 |lab061|metricbeat,elastic|
 |lab062|中文字符串长度|
 |lab063|chromedp，drive browsers|
-|lab064|mgo，MongoDB driver|
+|lab064|mgo，MongoDB driver|https://github.com/globalsign/mgo|
 |lab065|lxn/walk，A Windows GUI toolkit|
 |lab066|net/http client相关|
 |lab067|goquery|https://github.com/PuerkitoBio/goquery|
@@ -198,10 +198,11 @@
 |tool_xunfei|讯飞语音识别|
 |tool_csdn|CSDN的小工具|
 |tool_github_api|使用github的api|
-|tool_isbn|ISBN爬虫|
+|tool_douban_isbn|ISBN爬虫|
 |tool_kindle|导出amazon里面的kindle书单|
 |tool_video|视频相关|
 |tool_douban_book|豆瓣图书|
+|tool_isbn|isbn工具|
 
 ## go-playground
 
