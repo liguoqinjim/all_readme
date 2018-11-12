@@ -123,7 +123,7 @@
 |lab121|easyjson，github.com/mailru/easyjson|
 |lab122|jsoniter，github.com/json-iterator/go|
 |lab123|agouti，A WebDriver client and acceptance testing library for Go|https://github.com/sclevine/agouti|
-|lab124|prersistent-cookiejar，github.com/juju/persistent-cookiejar|
+|lab124|prersistent-cookiejar|https://github.com/juju/persistent-cookiejar|
 |lab125|runtime|
 |lab126|delve|
 |lab127|boltdb|
@@ -318,7 +318,7 @@ https://beego.me/docs/intro/upgrade.md
 |lab041|js读取本地文件|
 |lab042|XMLHttpRequest|
 |lab043|esprima|https://github.com/jquery/esprima|
-|lab044|nodejs读取文件|
+|lab044|nodejs读写文件|
 
 ## py3-tools
 
@@ -362,6 +362,7 @@ https://beego.me/docs/intro/upgrade.md
 |lab005|urlcode|
 |lab006|打印|
 |lab007|unicode和str|
+|lab008|调用外部命令|
 
 
 ## linux_conf
