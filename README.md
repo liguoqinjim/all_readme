@@ -348,8 +348,9 @@ https://beego.me/docs/intro/upgrade.md
 |文件夹|简介|说明|
 |---|---|---|
 |tool001|qunar_flight_domestic||
-|tool002|qunar_flight_pyspider|
-
+|tool002|qunar_flight_pyspider|pyspider的国内去哪机票|
+|tool003|qunar_flight_pyspider_inter|pyspider的国际去哪机票|
+|tool004|qunar_flight_inter|国际机票|
 
 ## py2-labs
 
