@@ -204,6 +204,7 @@
 |tool_douban_book|豆瓣图书|
 |tool_isbn|isbn工具|
 |tool_isbn_crawl|isbn爬虫|
+|tool_qunar_dujia|去哪度假|
 
 ## go-playground
 
@@ -351,6 +352,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool002|qunar_flight_pyspider|pyspider的国内去哪机票|
 |tool003|qunar_flight_pyspider_inter|pyspider的国际去哪机票|
 |tool004|qunar_flight_inter|国际机票|
+|tool005|qunar_dujia_spider|pyspider的度假|
 
 ## py2-labs
 
@@ -364,7 +366,10 @@ https://beego.me/docs/intro/upgrade.md
 |lab006|打印|
 |lab007|unicode和str|
 |lab008|调用外部命令|
-
+|lab009|正则表达式||
+|lab010|得到当前运行目录|
+|lab011|字符串|
+|lab012|sleep|
 
 ## linux_conf
 vim,zsh,tmux的配置文件
