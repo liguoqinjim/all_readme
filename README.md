@@ -354,7 +354,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool004|qunar_flight_inter|国际机票|
 |tool005|qunar_dujia_spider|pyspider的度假|
 |tool006|qunar_hotel_domestic_pyspider|pyspider去哪的国内酒店和客栈民宿|
-|tool007|qunar_hotel_domestic|国内酒店的结果解析|
+|tool007|qunar_hotel_domestic|酒店(国内，客栈，国际)的结果解析|
 
 ## py2-labs
 
@@ -372,6 +372,9 @@ https://beego.me/docs/intro/upgrade.md
 |lab010|得到当前运行目录|
 |lab011|字符串|
 |lab012|sleep|
+|lab013|时间戳|
+|lab014|随机数|
+
 
 ## linux_conf
 vim,zsh,tmux的配置文件
