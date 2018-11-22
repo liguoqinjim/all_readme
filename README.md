@@ -207,6 +207,8 @@
 |tool_isbn|isbn工具|
 |tool_isbn_crawl|isbn爬虫|
 |tool_qunar_dujia|去哪度假|
+|tool_esf_focus|搜狐交点_北京租房|
+|tool_anyv|微信公众号大全|
 
 ## go-playground
 
