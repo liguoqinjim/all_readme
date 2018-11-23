@@ -166,13 +166,13 @@
 |lab164|zap，Blazing fast, structured, leveled logging in Go|https://github.com/uber-go/zap|
 |lab165|Go package implementing Bloom filters|https://github.com/willf/bloom|
 |lab166|Bloom filter for go, backed by redis|https://github.com/bculberson/bloom|
+|lab167|lorca，Build cross-platform modern desktop apps in Go + HTML5|https://github.com/zserge/lorca|
 
 ## go-tools
 平时使用go写的一些程序
 
 |文件夹|简介|说明|
 |---|---|---|
-|tool_damai|大麦相关的一些工具|
 |tool_github_emoji|整理github上的emoji|
 |tool_search_import|在所有的gopath中查找指定的包|
 |tool_weibo|微博工具|
@@ -209,6 +209,8 @@
 |tool_qunar_dujia|去哪度假|
 |tool_esf_focus|搜狐交点_北京租房|
 |tool_anyv|微信公众号大全|
+|tool_damai|大麦|
+|tool_tmall|天猫|
 
 ## go-playground
 
