@@ -359,7 +359,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool003|qunar_flight_pyspider_inter|pyspider的国际去哪机票|
 |tool004|qunar_flight_inter|国际机票|
 |tool005|qunar_dujia_spider|pyspider的度假|
-|tool006|qunar_hotel_domestic_pyspider|pyspider去哪的国内酒店和客栈民宿|
+|tool006|qunar_hotel_domestic_pyspider|pyspider去哪的国内酒店和客栈民宿，国际酒店|
 |tool007|qunar_hotel_domestic|酒店(国内，客栈，国际)的结果解析|
 
 ## py2-labs
