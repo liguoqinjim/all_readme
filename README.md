@@ -211,6 +211,8 @@
 |tool_anyv|微信公众号大全|
 |tool_damai|大麦|
 |tool_tmall|天猫|
+|tool_kuaidaili|快代理的API|
+|tool_self_proxy|实验自己的代理|
 
 ## go-playground
 
