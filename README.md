@@ -438,6 +438,7 @@ vim,zsh,tmux的配置文件
 |lab006|字符串|
 |lab007|if else|
 |lab008|字符串替换|
+|lab009|打印，颜色|
 |playground|随便写的代码，需要整理|
 
 
