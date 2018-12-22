@@ -393,10 +393,7 @@ vim,zsh,tmux的配置文件
 ### 文件说明
 |文件|简介|说明|
 |---|---|---|
-|.tumx.conf|tmux的配置文件||
-|.zshrc|zsh的配置文件||
-|.vimrc|vim的配置文件|
-|.vimrc.bundles|vim的配置文件|
+|conf|所有配置文件夹的路径|
 |backup_conf.sh|用来备份配置文件到这个库的脚本|
 |download.sh|下载需要文件的脚本|
 |download_self.sh|下载需要的文件到data文件夹|是给这个库自己用的|
@@ -408,7 +405,6 @@ vim,zsh,tmux的配置文件
 |java_install.sh|java安装|
 |copy_conf.sh|复制配置文件到$HOME|
 |conf_elk.sh|添加elk的一些系统配置|
-|proxychains.conf|proxychains的配置文件|路径是:/usr/local/etc/proxychains.conf|
 |change_yum_repo.sh|把yum的源换成163的|
 |data文件夹|一些要下载的直接放在这个里面了|一定要放压缩文件|
 |tar.sh|把整个库打包|
