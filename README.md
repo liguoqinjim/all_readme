@@ -390,11 +390,11 @@ vim,zsh,tmux的配置文件
 
 `git clone https://github.com/liguoqinjim/linux_conf.git --depth 1`
 
-### 文件说明
+## 文件说明
 |文件|简介|说明|
 |---|---|---|
 |conf|所有配置文件夹的路径|
-|backup_conf.sh|用来备份配置文件到这个库的脚本|
+|backup_conf.sh|用来备份配置文件到这个库的脚本|todo，要求备份的时候手动输入机器名|
 |download.sh|下载需要文件的脚本|
 |download_self.sh|下载需要的文件到data文件夹|是给这个库自己用的|
 |ss_install.sh|配置ss客户端还有proxychains4|直接使用data里面的数据，不用下载了|
@@ -411,7 +411,7 @@ vim,zsh,tmux的配置文件
 |linux_conf.tar.gz|打包完之后的库|
 |get_go_repos.sh|clone几个常用的golang的库|
 
-### 调用数据
+## 调用数据
 0. yum install -y git wget
 1. change_yum_repo.sh
 11. yum_install.sh
@@ -421,6 +421,9 @@ vim,zsh,tmux的配置文件
 5. tmux_install.sh
 6. vim_install.sh
 
+
+## 参考资料
+ - yum换源，https://www.aliyun.com/jiaocheng/159754.html
 
 ## shell-labs
 
@@ -437,6 +440,8 @@ vim,zsh,tmux的配置文件
 |lab009|打印，颜色|
 |lab010|输出和输入|
 |lab011|ansi,ANSI escape codes in pure bash - change text color, position the cursor, much more|https://github.com/fidian/ansi|
+|lab012|判断文件或者目录是否已经存在|
+|lab013|判断一个命令是否存在，比如判断yum是否存在|
 |playground|随便写的代码，需要整理|
 
 
