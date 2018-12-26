@@ -364,6 +364,8 @@ https://beego.me/docs/intro/upgrade.md
 |tool006|qunar_hotel_domestic_pyspider|pyspider去哪的国内酒店和客栈民宿，国际酒店|
 |tool007|qunar_hotel_domestic|酒店(国内，客栈，国际)的结果解析|
 |tool008|pyspider所有文件|
+|tool009|damai_pyspider|大麦的pyspider|
+|tool010|damai_parse|解析大麦的结果|
 
 ## py2-labs
 
