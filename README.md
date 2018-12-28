@@ -168,6 +168,7 @@
 |lab166|Bloom filter for go, backed by redis|https://github.com/bculberson/bloom|
 |lab167|lorca,Build cross-platform modern desktop apps in Go + HTML5|https://github.com/zserge/lorca|
 |lab168|murmur3,Native MurmurHash3 Go implementation|https://github.com/spaolacci/murmur3|
+|lab169|golang内存对齐|
 
 ## go-tools
 平时使用go写的一些程序
@@ -214,6 +215,7 @@
 |tool_tmall|天猫|
 |tool_kuaidaili|快代理的API|
 |tool_self_proxy|实验自己的代理|
+
 
 ## go-playground
 
