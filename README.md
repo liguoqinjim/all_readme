@@ -497,6 +497,7 @@ fiddler的配置导出
 |实验|简介|文件夹|
 |---|---|---|
 |lab001|测试idea的项目结构||
+|lab002|测试idea下使用maven|
 
 
 ## phantomjs_labs
