@@ -282,6 +282,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool_qunar_flight_inter|去哪儿网的国际机票|
 |tool_qunar_hotel|去哪儿的国内酒店|
 |tool_qunar_flight_domestic|去哪儿网的国内机票|
+|tool_ctrip_flight_inter|携程的国际机票||
 
 ## js-labs
 
