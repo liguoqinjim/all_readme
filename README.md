@@ -171,6 +171,10 @@
 |lab169|golang内存对齐|
 |lab170|archiver,Easily create and extract .zip, .tar, .tar.gz, .tar.bz2, .tar.xz, .tar.lz4, .tar.sz, and .rar (extract-only) files with Go|https://github.com/mholt/archiver|
 |lab171|closestmatch,Golang library for fuzzy matching within a set of strings|https://github.com/schollz/closestmatch|
+|lab172|fsnotify,Cross-platform file system notifications for Go|https://github.com/fsnotify/fsnotify|
+|lab173|confluent-kafka-go,Confluent's Apache Kafka Golang client|https://github.com/confluentinc/confluent-kafka-go|
+|lab174|copier,Copier for golang, copy value from struct to struct and more|https://github.com/jinzhu/copier|
+|lab175|复制文件||
 
 ## go-tools
 平时使用go写的一些程序
