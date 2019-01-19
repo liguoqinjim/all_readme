@@ -378,6 +378,8 @@ https://beego.me/docs/intro/upgrade.md
 |tool008|pyspider所有文件|
 |tool009|damai_pyspider|大麦的pyspider|
 |tool010|damai_parse|解析大麦的结果|
+|tool011|ctrip_inter|携程国际机票|
+|tool012|ctrip_inter_pyspider|携程国际机票的pyspider代码|
 
 ## py2-labs
 
