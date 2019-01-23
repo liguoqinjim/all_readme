@@ -380,6 +380,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool010|damai_parse|解析大麦的结果|
 |tool011|ctrip_inter|携程国际机票|
 |tool012|ctrip_inter_pyspider|携程国际机票的pyspider代码|
+|tool013|阿涛脚本|
 
 ## py2-labs
 
@@ -399,7 +400,7 @@ https://beego.me/docs/intro/upgrade.md
 |lab012|sleep|
 |lab013|时间戳|
 |lab014|随机数|
-
+|lab015|faker|https://github.com/joke2k/faker|
 
 ## linux_conf
 vim,zsh,tmux的配置文件
