@@ -175,8 +175,7 @@
 |lab173|confluent-kafka-go,Confluent's Apache Kafka Golang client|https://github.com/confluentinc/confluent-kafka-go|
 |lab174|copier,Copier for golang, copy value from struct to struct and more|https://github.com/jinzhu/copier|
 |lab175|复制文件||
-|lab176|ratelimit,A Golang blocking leaky-bucket rate limit implementation
-|https://github.com/uber-go/ratelimit|
+|lab176|ratelimit,A Golang blocking leaky-bucket rate limit implementation|https://github.com/uber-go/ratelimit|
 
 ## go-tools
 平时使用go写的一些程序
