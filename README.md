@@ -10,7 +10,7 @@
 |lab004|解析json，go-simplejson|https://github.com/bitly/go-simplejson|
 |lab005|得到程序本身的路径| |
 |lab006|读取文件| |
-|lab009|mysql，go-sql-driver| |
+|lab009|mysql，原生sql操作| |
 |lab010|写文件，ioutil| |
 |lab011|写文件，os.File| |
 |lab012|写文件，bufio| |
@@ -179,6 +179,7 @@
 |lab177|移动文件| |
 |lab178|sarama,Sarama is a Go library for Apache Kafka 0.8, and up.|https://github.com/Shopify/sarama|
 |lab179|kafka-go,Kafka library in Go |https://github.com/segmentio/kafka-go |
+|lab180|xorm |https://github.com/go-xorm/xorm |
 
 ## go-tools
 平时使用go写的一些程序
