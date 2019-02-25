@@ -517,7 +517,7 @@ fiddler的配置导出
 |实验|简介|文件夹|
 |---|---|---|
 |lab001|时间戳| |
-
+|lab002|mybatis| |
 
 ## phantomjs_labs
 phantomJs的一些实验脚本
