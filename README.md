@@ -519,6 +519,9 @@ fiddler的配置导出
 |lab001|时间戳| |
 |lab002|mybatis|最基本的查询代码，不包含spring |
 |lab003|idea mybatis插件测试| todo|
+|lab004|HikariCP| |
+|lab005|HikariCP&mybatis| todo |
+|lab006|Kafka| |
 
 ## phantomjs_labs
 phantomJs的一些实验脚本
