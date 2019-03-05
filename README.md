@@ -181,6 +181,7 @@
 |lab179|kafka-go,Kafka library in Go |https://github.com/segmentio/kafka-go |
 |lab180|xorm |https://github.com/go-xorm/xorm |
 |lab181|gohbase,Pure-Go HBase client|https://github.com/tsuna/gohbase|
+|lab182|port-scanner,Simple port scanner library for Go|https://github.com/anvie/port-scanner|
 
 ## go-tools
 平时使用go写的一些程序
