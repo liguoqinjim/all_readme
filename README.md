@@ -182,6 +182,7 @@
 |lab180|xorm |https://github.com/go-xorm/xorm |
 |lab181|gohbase,Pure-Go HBase client|https://github.com/tsuna/gohbase|
 |lab182|port-scanner,Simple port scanner library for Go|https://github.com/anvie/port-scanner|
+|lab183|lumberjack,lumberjack is a log rolling package for Go|https://github.com/natefinch/lumberjack|
 
 ## go-tools
 平时使用go写的一些程序
@@ -353,6 +354,7 @@ https://beego.me/docs/intro/upgrade.md
 |文件夹|简介|说明|
 |---|---|---|
 |tool_qunar_flight_domestic|去哪儿的国内机票|
+|tool_xls|xls处理||
 
 ## py3-labs
 
@@ -370,6 +372,7 @@ https://beego.me/docs/intro/upgrade.md
 |lab010|编码|hex,sha1,md5|
 |lab011|写入文件|
 |lab012|时间戳|
+|lab013|openpyxl|对xls的读写|
 
 ## py2-tools
 
