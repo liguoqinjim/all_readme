@@ -294,15 +294,16 @@ https://beego.me/docs/intro/upgrade.md
 
 |文件夹|简介|说明|
 |---|---|---|
-|tool_bus|对应go-tools里面的tool_bus||
-|tool_pholcus|pholcus的界面||
-|tool_slg|slg的一些界面|
+|tool_bus|对应go-tools里面的tool_bus| |
+|tool_pholcus|pholcus的界面| |
+|tool_slg|slg的一些界面| |
 |tool_otp|一次密码生成|外包|
-|tool_alicrm|逐白项目|
-|tool_qunar_flight_inter|去哪儿网的国际机票|
-|tool_qunar_hotel|去哪儿的国内酒店|
-|tool_qunar_flight_domestic|去哪儿网的国内机票|
-|tool_ctrip_flight_inter|携程的国际机票||
+|tool_alicrm|逐白项目| |
+|tool_qunar_flight_inter|去哪儿网的国际机票| |
+|tool_qunar_hotel|去哪儿的国内酒店| |
+|tool_qunar_flight_domestic|去哪儿网的国内机票| |
+|tool_ctrip_flight_inter|携程的国际机票| |
+|tool_damai|分析大麦| |
 
 ## js-labs
 
@@ -353,13 +354,15 @@ https://beego.me/docs/intro/upgrade.md
 |lab043|esprima|https://github.com/jquery/esprima|
 |lab044|nodejs读写文件| |
 |lab045|buffer|https://github.com/feross/buffer|
+|lab046|puppeteer|https://github.com/GoogleChrome/puppeteer|
 
 ## py3-tools
 
 |文件夹|简介|说明|
 |---|---|---|
-|tool_qunar_flight_domestic|去哪儿的国内机票|
-|tool_xls|xls处理||
+|tool_qunar_flight_domestic|去哪儿的国内机票| |
+|tool_xls|xls处理| |
+|tool_damai|大麦| |
 
 ## py3-labs
 
