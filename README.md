@@ -363,6 +363,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool_qunar_flight_domestic|去哪儿的国内机票| |
 |tool_xls|xls处理| |
 |tool_damai|大麦| |
+|tool_mitm|mitmproxy| |
 
 ## py3-labs
 
