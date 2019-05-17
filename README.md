@@ -75,7 +75,7 @@
 |lab073|testify，测试框架| |
 |lab074|AES加密算法| |
 |lab075|goroutine| |
-|lab076|编码相关(base64，hex)| |
+|lab076|编码相关|base64,hex,`0xNN` |
 |lab077|锁| |
 |lab078|map和slice的内存和速度分析| |
 |lab079|interface| |
@@ -236,6 +236,7 @@
 |tool_ctrip_flight_inter|携程的国际机票| |
 |tool_go_sql|golang的sql对比| |
 |tool_lng_lat|经纬度转换| |
+|tool_ticket|ticket_project的补充| |
 
 ## go-playground
 
@@ -304,6 +305,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool_qunar_flight_domestic|去哪儿网的国内机票| |
 |tool_ctrip_flight_inter|携程的国际机票| |
 |tool_damai|分析大麦| |
+|tool_polyt|分析保利剧院| |
 
 ## js-labs
 
