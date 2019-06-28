@@ -239,6 +239,7 @@
 |tool_go_sql|golang的sql对比| |
 |tool_lng_lat|经纬度转换| |
 |tool_ticket|ticket_project的补充| |
+|tool_oui|oui database处理| |
 
 ## go-playground
 
