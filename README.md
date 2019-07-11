@@ -360,6 +360,7 @@ https://beego.me/docs/intro/upgrade.md
 |lab044|nodejs读写文件| |
 |lab045|buffer|https://github.com/feross/buffer|
 |lab046|puppeteer|https://github.com/GoogleChrome/puppeteer|
+|lab047|websocket||
 
 ## py3-tools
 
