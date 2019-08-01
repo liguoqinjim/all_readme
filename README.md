@@ -409,7 +409,8 @@ https://beego.me/docs/intro/upgrade.md
 |tool012|ctrip_inter_pyspider|携程国际机票的pyspider代码|
 |tool013|阿涛脚本| |
 |tool014|Spark_Streaming实时流处理项目实战的脚本|scala_tools/tool005|
-|tool015|meituan_flight|美团机票 |
+|tool015|meituan_flight_pyspider|美团机票pyspider代码 |
+|tool016|meituan_flight|美团机票解析 |
 
 ## py2-labs
 
