@@ -363,6 +363,8 @@ https://beego.me/docs/intro/upgrade.md
 |lab045|buffer|https://github.com/feross/buffer|
 |lab046|puppeteer|https://github.com/GoogleChrome/puppeteer|
 |lab047|websocket| |
+|lab048|encodeURIComponent| |
+|lab049|readability|https://github.com/mozilla/readability|
 
 ## py3-tools
 
@@ -377,19 +379,20 @@ https://beego.me/docs/intro/upgrade.md
 
 |实验|简介|说明|
 |---|---|---|
-|lab001|raven的使用|
-|lab002|appium|
-|lab003|百度语音python sdk||
-|lab004|读取文件|
-|lab005|解析json||
-|lab006|讯飞语音识别|
+|lab001|raven的使用| |
+|lab002|appium| |
+|lab003|百度语音python sdk| |
+|lab004|读取文件| |
+|lab005|解析json| |
+|lab006|讯飞语音识别| |
 |lab007|字符串|todo|
 |lab008|url encode|todo from urllib.parse import quote,quote('上海', 'utf-8'),unquote|
 |lab009|requests|todo|
 |lab010|编码|hex,sha1,md5|
-|lab011|写入文件|
-|lab012|时间戳|
+|lab011|写入文件| |
+|lab012|时间戳| |
 |lab013|openpyxl|对xls的读写|
+|lab014|GeneralNewsExtractor|https://github.com/kingname/GeneralNewsExtractor|
 
 ## py2-tools
 
