@@ -374,6 +374,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool_xls|xls处理| |
 |tool_damai|大麦| |
 |tool_mitm|mitmproxy| |
+|tool_xunfei|讯飞| |
 
 ## py3-labs
 
