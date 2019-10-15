@@ -241,6 +241,7 @@
 |tool_ticket|ticket_project的补充| |
 |tool_oui|oui database处理| |
 |tool_meituan|美团机票| |
+|tool_tx_yuyin|腾讯语音合成| |
 
 ## go-playground
 
