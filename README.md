@@ -242,6 +242,8 @@
 |tool_oui|oui database处理| |
 |tool_meituan|美团机票| |
 |tool_tx_yuyin|腾讯语音合成| |
+|tool_nike|耐克抢鞋| |
+|tool_thewolf|短信验证码平台| |
 
 ## go-playground
 
