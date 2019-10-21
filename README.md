@@ -368,6 +368,7 @@ https://beego.me/docs/intro/upgrade.md
 |lab047|websocket| |
 |lab048|encodeURIComponent| |
 |lab049|readability|https://github.com/mozilla/readability|
+|lab050|随机数| |
 
 ## py3-tools
 
