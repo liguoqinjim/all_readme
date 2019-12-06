@@ -244,6 +244,7 @@
 |tool_tx_yuyin|腾讯语音合成| |
 |tool_nike|耐克抢鞋| |
 |tool_thewolf|短信验证码平台| |
+|tool_ipo|港股打新工具| |
 
 
 ## go-playground
