@@ -424,6 +424,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool015|meituan_flight_pyspider|美团机票pyspider代码 |
 |tool016|meituan_flight|美团机票解析 |
 |tool017|qunar_flight_inter|新的去哪机票|
+|tool018|baobeigezi|爬虫项目|
 
 ## py2-labs
 
