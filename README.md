@@ -188,7 +188,7 @@
 |lab186|golang-neo4j-bolt-driver,Golang Bolt driver for Neo4j|https://github.com/johnnadratowski/golang-neo4j-bolt-driver|
 |lab187|go-elasticsearch,The official Go client for Elasticsearch|https://github.com/elastic/go-elasticsearch|
 |lab188|go-ouitools,Golang tools to work with Mac addresses and oui database|https://github.com/dutchcoders/go-ouitools|
-
+|lab189|fyne,Cross platform GUI in Go based on Material Design|https://github.com/fyne-io/fyne|
 
 ## go-tools
 平时使用go写的一些程序
