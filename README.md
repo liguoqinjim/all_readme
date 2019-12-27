@@ -531,10 +531,10 @@ elk的一些实践
 
 |实验|简介|说明|
 |---|---|---|
-|lab001|airbnb数据的实验||
-|lab002|logstash配置文件整理||
-|lab003|nginx日志分析实验|
-|lab004|slg的elk整体结构|
+|lab001|airbnb数据的实验| |
+|lab002|logstash配置文件整理| |
+|lab003|nginx日志分析实验| |
+|lab004|slg的elk整体结构| |
 
 ## fiddler_config
 fiddler的配置导出
