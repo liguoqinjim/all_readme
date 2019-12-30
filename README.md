@@ -535,6 +535,7 @@ elk的一些实践
 |lab002|logstash配置文件整理| |
 |lab003|nginx日志分析实验| |
 |lab004|slg的elk整体结构| |
+|lab005|huangpu_wifi| |
 
 ## fiddler_config
 fiddler的配置导出
