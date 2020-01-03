@@ -524,7 +524,8 @@ vim,zsh,tmux的配置文件
 |文件夹|简介|说明|
 |---|---|---|
 |lab001|系统学习Docker| |
-|tool|项目中用到的docker| |
+|tool001|elasticsearch实验docker集群| |
+|tool002|mysql主从复制| |
 
 ## elk-labs
 elk的一些实践
