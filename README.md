@@ -253,6 +253,7 @@
 |tool_ipo|港股打新工具| |
 |tool_baobeigezi|宝贝格子|爬虫项目|
 |tool_hugo|hugo的工具| |
+|tool_decathlon|迪卡侬爬虫| |
 
 ## go-playground
 
@@ -432,6 +433,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool016|meituan_flight|美团机票解析 |
 |tool017|qunar_flight_inter|新的去哪机票|
 |tool018|baobeigezi|爬虫项目|
+|tool019|迪卡侬|爬虫项目|
 
 ## py2-labs
 
