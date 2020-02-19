@@ -259,6 +259,7 @@
 |tool_baobeigezi|宝贝格子|爬虫项目|
 |tool_hugo|hugo的工具| |
 |tool_decathlon|迪卡侬爬虫| |
+|tool_buy|京东和天猫的工具| |
 
 ## go-playground
 
@@ -541,7 +542,7 @@ vim,zsh,tmux的配置文件
 |tool002|mysql主从复制| |
 |tool003|elastic rally| |
 |tool004|容器限制资源| |
-
+|tool005|django|维尼熊的|
 
 ## elk-labs
 elk的一些实践
