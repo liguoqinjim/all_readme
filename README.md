@@ -260,6 +260,7 @@
 |tool_hugo|hugo的工具| |
 |tool_decathlon|迪卡侬爬虫| |
 |tool_buy|京东和天猫的工具| |
+|tool_x_kicks|一个鞋子网站的爬虫| |
 
 ## go-playground
 
