@@ -260,7 +260,9 @@
 |tool_hugo|hugo的工具| |
 |tool_decathlon|迪卡侬爬虫| |
 |tool_buy|京东和天猫的工具| |
-|tool_x_kicks|一个鞋子网站的爬虫| |
+|tool_x_kicks|一个鞋子网站的爬虫|爬虫项目 |
+|tool_haole| |爬虫项目|
+|tool_gongboshi|工博士|爬虫项目|
 
 ## go-playground
 
@@ -331,6 +333,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool_damai|分析大麦| |
 |tool_polyt|分析保利剧院| |
 |tool_meituan|美团机票| |
+|tool_haole|爬虫项目| |
 
 ## js-labs
 
@@ -442,6 +445,9 @@ https://beego.me/docs/intro/upgrade.md
 |tool017|qunar_flight_inter|新的去哪机票|
 |tool018|baobeigezi|爬虫项目|
 |tool019|迪卡侬|爬虫项目|
+|tool020|鞋子网站爬虫|爬虫项目|
+|tool021|好乐|爬虫项目|
+|tool022|工博士|爬虫项目|
 
 ## py2-labs
 
@@ -462,6 +468,9 @@ https://beego.me/docs/intro/upgrade.md
 |lab013|时间戳|
 |lab014|随机数|
 |lab015|faker|https://github.com/joke2k/faker|
+|lab016|demjson|https://github.com/dmeranda/demjson|
+|lab017|控制台打印中文||
+|lab018|lxml|https://github.com/lxml/lxml|
 
 ## linux_conf
 vim,zsh,tmux的配置文件
