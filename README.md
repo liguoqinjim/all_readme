@@ -200,6 +200,9 @@
 |lab198|gotests,Generate Go tests from your source code|https://github.com/cweill/gotests |
 |lab199|goreferrer,Analyzes and classifies different kinds of referrer URLs|https://github.com/Shopify/goreferrer|
 |lab200|ginkgo,BDD Testing Framework for Go |https://github.com/onsi/ginkgo|
+|lab201|neffos,A modern, fast and scalable websocket framework with elegant API written in Go |https://github.com/kataras/neffos|
+|lab202|ws,Tiny WebSocket library for Go|https://github.com/gobwas/ws|
+|lab203|websocket,A fast, well-tested and widely used WebSocket implementation for Go|https://github.com/gorilla/websocket|
 
 ## go-tools
 平时使用go写的一些程序
