@@ -80,10 +80,10 @@
 |lab078|map和slice的内存和速度分析| |
 |lab079|interface| |
 |lab080|golang的label(标签)| |
-|lab081|time，时间|时间戳，时间格式的一些操作|
+|lab081|time,时间|时间戳，时间格式的一些操作|
 |lab082|得到goroutine id| |
-|lab083|elastic，Elasticsearch client for Go|https://github.com/olivere/elastic|
-|lab084|otto，A JavaScript interpreter in Go| |
+|lab083|elastic,Elasticsearch client for Go|https://github.com/olivere/elastic|
+|lab084|otto,A JavaScript interpreter in Go| |
 |lab085|snowflake，生成唯一id| |
 |lab086|排序算法| |
 |lab087|golang-geo，Geographical calculations in Go| |
@@ -127,7 +127,7 @@
 |lab125|runtime| |
 |lab126|delve| |
 |lab127|boltdb| |
-|lab128|gorm| |
+|lab128|gorm,The fantastic ORM library for Golang|https://github.com/jinzhu/gorm|
 |lab129|sync.Map| |
 |lab130|gods，Go Data Structures|https://github.com/emirpasic/gods|
 |lab131|url.ParseQuery| |
@@ -209,7 +209,7 @@
 |lab207|go-echarts,The adorable charts library for Golang|https://github.com/go-echarts/go-echarts|
 |lab208|viper,Go configuration with fangs|https://github.com/spf13/viper|
 |lab209|aliyun-oss-go-sdk,Aliyun OSS SDK for Go|https://github.com/aliyun/aliyun-oss-go-sdk|
-
+|lab210|jwt-go,Golang implementation of JSON Web Tokens (JWT)|https://github.com/dgrijalva/jwt-go|
 
 ## go-tools
 平时使用go写的一些程序
