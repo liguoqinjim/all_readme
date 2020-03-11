@@ -2,6 +2,11 @@
 
 ## go-labs
 
+---
+[![Go Report Card](https://goreportcard.com/badge/github.com/liguoqinjim/go-labs)](https://goreportcard.com/report/github.com/liguoqinjim/go-labs)
+
+---
+
 |实验|简介|说明|
 |---|---|---|
 |lab001|package flag的使用| |
@@ -24,7 +29,7 @@
 |lab022|关于channel的几个实验| |
 |lab023|websocket| |
 |lab024|xls操作| |
-|lab025|关于sync的几个实验| |
+|lab025|sync package|sync/atomic,sync.Mutex,sync.Once |
 |lab026|signal| |
 |lab027|匿名字段和内嵌结构体| |
 |lab028|关于unsafe包的几个实验| |
@@ -277,6 +282,7 @@
 |tool_gongboshi|工博士|爬虫项目|
 |tool_google_drive|上传到google drive| |
 |tool_vboly|爬虫项目| |
+|tool_achun_homework|阿春作业| |
 
 ## go-playground
 
@@ -416,6 +422,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool_mitm|mitmproxy| |
 |tool_xunfei|讯飞| |
 |tool_captcha|验证码项目| |
+|tool_achun_homework|阿春作业| |
 
 ## py3-labs
 
@@ -546,6 +553,7 @@ vim,zsh,tmux的配置文件
 |lab012|判断文件或者目录是否已经存在|
 |lab013|判断一个命令是否存在，比如判断yum是否存在|
 |lab014|遍历文件夹下的文件||
+|lab015|数据库相关||
 |playground|随便写的代码，需要整理|
 
 
