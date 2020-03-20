@@ -228,6 +228,7 @@
 |lab214|在docker中运行go项目| |
 |lab215|httpexpect,End-to-end HTTP and REST API testing for Go.|https://github.com/gavv/httpexpect|
 |lab216|numcn,中文数字与Go语言数字的相互转换|https://github.com/pkumza/numcn|
+|lab217|交叉编译| |
 
 ## go-tools
 平时使用go写的一些程序
@@ -292,7 +293,7 @@
 |tool056|爬虫项目| |
 |tool057|阿春作业| |
 |tool058|腾讯AI的语音合成| |
-|tool059|视频拼接| |
+|tool059|摄像头视频拼接管理上传| |
 
 ## go-playground
 
