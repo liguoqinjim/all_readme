@@ -171,11 +171,11 @@
 |lab157|appigo，appium的golang版本|https://github.com/rockisch/appigo|
 |lab158|gzip| |
 |lab159|随机数| |
-|lab160|go-ffprobe，Library to easily get the ffprobe output of a given file|https://github.com/vansante/go-ffprobe|
+|lab160|go-ffprobe,Library to easily get the ffprobe output of a given file|https://github.com/vansante/go-ffprobe|
 |lab161|散列哈希| |
 |lab162|grequests|https://github.com/levigross/grequests|
-|lab163|clipboard，clipboard for golang|https://github.com/atotto/clipboard|
-|lab164|zap,Blazing fast, structured, leveled logging in Go|https://github.com/uber-go/zap|
+|lab163|clipboard,clipboard for golang|https://github.com/atotto/clipboard|
+|lab164|zap,Blazing fast,structured, leveled logging in Go|https://github.com/uber-go/zap|
 |lab165|bloom,Go package implementing Bloom filters|https://github.com/willf/bloom|
 |lab166|Bloom filter for go, backed by redis|https://github.com/bculberson/bloom|
 |lab167|lorca,Build cross-platform modern desktop apps in Go + HTML5|https://github.com/zserge/lorca|
@@ -191,7 +191,7 @@
 |lab177|移动文件| |
 |lab178|sarama,Sarama is a Go library for Apache Kafka 0.8, and up.|https://github.com/Shopify/sarama|
 |lab179|kafka-go,Kafka library in Go |https://github.com/segmentio/kafka-go |
-|lab180|xorm |https://github.com/go-xorm/xorm |
+|lab180|xorm,Simple and Powerful ORM for Go |https://github.com/go-xorm/xorm|
 |lab181|gohbase,Pure-Go HBase client|https://github.com/tsuna/gohbase|
 |lab182|port-scanner,Simple port scanner library for Go|https://github.com/anvie/port-scanner|
 |lab183|lumberjack,lumberjack is a log rolling package for Go|https://github.com/natefinch/lumberjack|
