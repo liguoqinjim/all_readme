@@ -117,12 +117,12 @@
 |lab103|go-httpbin，golang实现的httpbin.org| |
 |lab104|go.uuid，UUID package for Go| |
 |lab105|压缩| |
-|lab106|wechat-go，go version wechat web api and message framework for building wechat robot| |
+|lab106|wechat-go,go version wechat web api and message framework for building wechat robot| |
 |lab107|govaluate，Arbitrary expression evaluation for golang| |
 |lab108|gopsutil，psutil for golang(Cross-platform lib for process and system monitoring in Python)| |
 |lab109|go tool pprof| |
 |lab110|go tool trace| |
-|lab111|go-torch，Stochastic flame graph profiler for Go programs| |
+|lab111|go-torch,Stochastic flame graph profiler for Go programs| |
 |lab112|cookie| |
 |lab113|teleport| |
 |lab114|得到完整url| |
@@ -229,6 +229,7 @@
 |lab215|httpexpect,End-to-end HTTP and REST API testing for Go.|https://github.com/gavv/httpexpect|
 |lab216|numcn,中文数字与Go语言数字的相互转换|https://github.com/pkumza/numcn|
 |lab217|交叉编译| |
+|lab218|wechat,WeChat SDK for Go|https://github.com/silenceper/wechat|
 
 ## go-tools
 平时使用go写的一些程序
@@ -435,6 +436,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool_captcha|验证码项目| |
 |tool_achun_homework|阿春作业| |
 
+
 ## py3-labs
 
 |实验|简介|说明|
@@ -569,6 +571,7 @@ vim,zsh,tmux的配置文件
 |lab017|重定向||
 |lab018|trap||
 |lab019|得到os和arch||
+|lab020|替换文件中的字符串||
 |playground|随便写的代码，需要整理|
 
 
