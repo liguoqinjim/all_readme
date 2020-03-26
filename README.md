@@ -429,14 +429,15 @@ https://beego.me/docs/intro/upgrade.md
 
 |文件夹|简介|说明|
 |---|---|---|
-|tool_qunar_flight_domestic|去哪儿的国内机票| |
-|tool_xls|xls处理| |
-|tool_damai|大麦| |
-|tool_mitm|mitmproxy| |
-|tool_xunfei|讯飞| |
-|tool_captcha|验证码项目| |
-|tool_achun_homework|阿春作业| |
-
+|tool001|去哪儿的国内机票| |
+|tool002|xls处理| |
+|tool003|大麦| |
+|tool004|mitmproxy| |
+|tool005|讯飞| |
+|tool006|验证码项目| |
+|tool007|阿春作业| |
+|tool008|电信光猫破解| |
+|tool009|vitu.ai 量化交易| |
 
 ## py3-labs
 
