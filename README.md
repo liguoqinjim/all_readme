@@ -36,7 +36,7 @@
 |lab019|解析xml|encoding/xml|
 |lab022|关于channel的几个实验| |
 |lab023|websocket| |
-|lab024|xls操作| |
+|lab024|xlsx,Go (golang) library for reading and writing XLSX files.|https://github.com/tealeg/xlsx |
 |lab025|sync package|sync/atomic,sync.Mutex,sync.Once |
 |lab026|signal| |
 |lab027|匿名字段和内嵌结构体| |
@@ -151,14 +151,14 @@
 |lab137|etcd|github.com/coreos/etcd/tree/master/clientv3，etcd v3|
 |lab138|go.geo|https://github.com/paulmach/go.geo|
 |lab139|etree，xml解析|https://github.com/beevik/etree|
-|lab140|colly|https://github.com/gocolly/colly|
+|lab140|colly,Elegant Scraper and Crawler Framework for Golang|https://github.com/gocolly/colly|
 |lab141|go-bindata-assetfs|https://github.com/elazarl/go-bindata-assetfs/|
 |lab142|logstash_tcp|测试给logstash的input的tcp发送数据|
 |lab143|触发IFTTT的webhooks| |
 |lab144|ini|https://github.com/go-ini/ini|
 |lab145|go-cache|https://github.com/patrickmn/go-cache|
 |lab146|gpinyin|https://github.com/jmz331/gpinyin ，可以繁体简体转换和转换到拼音|
-|lab147|gocsv，csv库|https://github.com/gocarina/gocsv|
+|lab147|gocsv,CSV serialization and deserialization to the golang programming language|https://github.com/gocarina/gocsv|
 |lab148|blackfriday，a markdown processor for Go|https://github.com/russross/blackfriday|
 |lab149|string相关| |
 |lab150|iris,web framework|https://github.com/kataras/iris|
@@ -231,7 +231,7 @@
 |lab217|交叉编译| |
 |lab218|wechat,WeChat SDK for Go|https://github.com/silenceper/wechat|
 |lab219|mysql相关测试| |
-
+|lab220|excelize,Golang library for reading and writing Microsoft Excel™ (XLSX) files.|https://github.com/360EntSecGroup-Skylar/excelize|
 
 ## go-tools
 平时使用go写的一些程序
