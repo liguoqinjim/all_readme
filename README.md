@@ -157,7 +157,7 @@
 |lab143|触发IFTTT的webhooks| |
 |lab144|ini|https://github.com/go-ini/ini|
 |lab145|go-cache|https://github.com/patrickmn/go-cache|
-|lab146|gpinyin|https://github.com/jmz331/gpinyin ，可以繁体简体转换和转换到拼音|
+|lab146|gpinyin，可以繁体简体转换和转换到拼音|https://github.com/jmz331/gpinyin|
 |lab147|gocsv,CSV serialization and deserialization to the golang programming language|https://github.com/gocarina/gocsv|
 |lab148|blackfriday，a markdown processor for Go|https://github.com/russross/blackfriday|
 |lab149|string相关| |
@@ -444,6 +444,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool007|阿春作业| |
 |tool008|电信光猫破解| |
 |tool009|vitu.ai 量化交易| |
+|tool010|富途API| |
 
 ## py3-labs
 
