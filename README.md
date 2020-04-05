@@ -445,6 +445,10 @@ https://beego.me/docs/intro/upgrade.md
 |tool008|电信光猫破解| |
 |tool009|vitu.ai 量化交易| |
 |tool010|富途API| |
+|tool011|港股打新| |
+|tool012|yahoo-historical|https://github.com/AndrewRPorter/yahoo-historical |
+|tool013|iexfinance|https://addisonlynch.github.io/iexfinance/stable/install.html|
+|tool014|老虎证券||
 
 ## py3-labs
 
