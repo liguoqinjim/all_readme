@@ -232,6 +232,7 @@
 |lab220|excelize,Golang library for reading and writing Microsoft Excel™ (XLSX) files.|https://github.com/360EntSecGroup-Skylar/excelize|
 |lab221|go-opentaobao,淘宝Api、淘宝开放平台Api请求基础SDK|https://github.com/nilorg/go-opentaobao|
 |lab222|unipdf,Golang PDF library for creating and processing PDF files (pure go)|https://github.com/unidoc/unipdf|
+|lab223|go-humanize,Go Humans! (formatters for units to human friendly sizes) |https://github.com/dustin/go-humanize|
 
 ## go-tools
 平时使用go写的一些程序
@@ -297,6 +298,7 @@
 |tool057|阿春作业| |
 |tool058|腾讯AI的语音合成| |
 |tool059|摄像头视频拼接管理上传| |
+|tool060|dnspod工具| |
 
 ## go-playground
 
