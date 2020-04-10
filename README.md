@@ -630,13 +630,7 @@ fiddler的配置导出
 |config_music163|网易云音乐的配置||
 |fiddlerScript_backup|fiddlerScript配置的备份|
 
-## idata
-数据圈的实验代码
-
-|文件夹|简介|
-|---|---|
-|lab_data_analysis|python数据分析学习|
-
+#404: Not Found
 
 ## java-labs
 
