@@ -375,6 +375,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool015|爬虫项目|智联招聘|
 |tool016|港股打新相关| |
 |tool017|go_proxy_pool的支援代码||
+|tool018|frida||
 
 ## js-labs
 
@@ -449,7 +450,9 @@ https://beego.me/docs/intro/upgrade.md
 |tool011|港股打新| |
 |tool012|yahoo-historical|https://github.com/AndrewRPorter/yahoo-historical |
 |tool013|iexfinance|https://addisonlynch.github.io/iexfinance/stable/install.html|
-|tool014|老虎证券||
+|tool014|老虎证券API| |
+|tool015|alphavantage|https://www.alphavantage.co/|
+|tool016|frida| |
 
 ## py3-labs
 
