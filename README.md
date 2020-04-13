@@ -612,6 +612,7 @@ vim,zsh,tmux的配置文件
 |tool003|elastic rally| |
 |tool004|容器限制资源| |
 |tool005|django|维尼熊的|
+|tool006|Vagrant的测试||
 
 ## elk-labs
 elk的一些实践
