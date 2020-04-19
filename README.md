@@ -300,6 +300,7 @@
 |tool058|腾讯AI的语音合成| |
 |tool059|摄像头视频拼接管理上传| |
 |tool060|dnspod工具| |
+|tool061|大麦|爬虫项目|
 
 ## go-playground
 
@@ -501,6 +502,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool021|好乐|爬虫项目|
 |tool022|工博士|爬虫项目|
 |tool023|vboly|爬虫项目|
+|tool024|大麦|爬虫项目|
 
 ## py2-labs
 
