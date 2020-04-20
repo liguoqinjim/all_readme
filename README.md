@@ -591,6 +591,7 @@ vim,zsh,tmux的配置文件
 |lab018|trap||
 |lab019|得到os和arch||
 |lab020|替换文件中的字符串||
+|lab021|启动脚本||
 |playground|随便写的代码，需要整理|
 
 
