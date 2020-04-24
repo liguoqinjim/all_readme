@@ -301,6 +301,7 @@
 |tool059|摄像头视频拼接管理上传| |
 |tool060|dnspod工具| |
 |tool061|大麦|爬虫项目|
+|tool062|nginx测试| |
 
 ## go-playground
 
@@ -617,6 +618,7 @@ vim,zsh,tmux的配置文件
 |tool004|容器限制资源| |
 |tool005|django|维尼熊的|
 |tool006|Vagrant的测试||
+|tool007|nginx配置||
 
 ## elk-labs
 elk的一些实践
