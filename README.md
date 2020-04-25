@@ -455,6 +455,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool014|老虎证券API| |
 |tool015|alphavantage|https://www.alphavantage.co/|
 |tool016|frida| |
+|tool017|阿春考试| |
 
 ## py3-labs
 
@@ -594,6 +595,7 @@ vim,zsh,tmux的配置文件
 |lab020|替换文件中的字符串||
 |lab021|启动脚本||
 |lab022|循环||
+|lab023|egrep||
 |playground|随便写的代码，需要整理|
 
 
