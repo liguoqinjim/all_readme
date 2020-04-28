@@ -622,6 +622,8 @@ vim,zsh,tmux的配置文件
 |tool005|django|维尼熊的|
 |tool006|Vagrant的测试||
 |tool007|nginx配置||
+|tool008|es集群的ssl和密码||
+|tool009|008的基础上自建集群|暂时没解决，es的ssl配置成功，但是kibana没有配置成功|
 
 ## elk-labs
 elk的一些实践
