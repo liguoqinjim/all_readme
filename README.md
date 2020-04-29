@@ -303,6 +303,7 @@
 |tool061|大麦|爬虫项目|
 |tool062|nginx测试| |
 |tool063|黄浦工具| |
+|tool064|黄浦es||
 
 ## go-playground
 
@@ -635,6 +636,7 @@ elk的一些实践
 |lab003|nginx日志分析实验| |
 |lab004|slg的elk整体结构| |
 |lab005|huangpu_wifi| |
+|lab006|keyword还是text| |
 
 ## fiddler_config
 fiddler的配置导出
