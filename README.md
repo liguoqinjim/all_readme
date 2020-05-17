@@ -148,7 +148,7 @@
 |lab136|gomock|https://github.com/golang/mock/|
 |lab137|etcd|github.com/coreos/etcd/tree/master/clientv3，etcd v3|
 |lab138|go.geo|https://github.com/paulmach/go.geo|
-|lab139|etree，xml解析|https://github.com/beevik/etree|
+|lab139|etree,parse and generate XML easily in go|https://github.com/beevik/etree|
 |lab140|colly,Elegant Scraper and Crawler Framework for Golang|https://github.com/gocolly/colly|
 |lab141|go-bindata-assetfs|https://github.com/elazarl/go-bindata-assetfs/|
 |lab142|logstash_tcp|测试给logstash的input的tcp发送数据|
@@ -235,8 +235,11 @@
 |lab223|go-humanize,Go Humans! (formatters for units to human friendly sizes) |https://github.com/dustin/go-humanize|
 |lab224|gota,Gota: DataFrames and data wrangling in Go (Golang)|https://github.com/go-gota/gota|
 |lab225|websocket demo||
-|lab226|A generator library for concise, unambiguous and URL-safe UUIDs |https://github.com/lithammer/shortuuid|
-|lab227|A golang package for converting to snake_case or CamelCase|https://github.com/iancoleman/strcase|
+|lab226|shortuuid,A generator library for concise, unambiguous and URL-safe UUIDs |https://github.com/lithammer/shortuuid|
+|lab227|strcase,A golang package for converting to snake_case or CamelCase|https://github.com/iancoleman/strcase|
+|lab228|alibaba-cloud-sdk-go,Alibaba Cloud SDK for Go|https://github.com/aliyun/alibaba-cloud-sdk-go|
+|lab229|gojsonq,A simple Go package to Query over JSON/YAML/XML/CSV Data|https://github.com/thedevsaddam/gojsonq|
+|lab230|shortid,Super short, fully unique, non-sequential and URL friendly Ids|https://github.com/teris-io/shortid|
 
 ## go-tools
 平时使用go写的一些程序
