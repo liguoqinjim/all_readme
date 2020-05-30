@@ -246,6 +246,7 @@
 |lab234|machinery,Machinery is an asynchronous task queue/job queue based on distributed message passing.|https://github.com/RichardKnop/machinery|
 |lab235|slack,Slack API in Go|https://github.com/slack-go/slack|
 |lab236|gocron,A Golang Job Scheduling Package.|https://github.com/jasonlvhit/gocron|
+|lab237|silk编码||
 
 ## go-tools
 平时使用go写的一些程序
@@ -611,6 +612,7 @@ vim,zsh,tmux的配置文件
 |lab022|循环||
 |lab023|egrep||
 |lab024|ssh远程echo||
+|lab025|ssh操作远程的tmux||
 |playground|随便写的代码，需要整理|
 
 
