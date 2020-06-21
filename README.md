@@ -474,6 +474,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool015|alphavantage|https://www.alphavantage.co/|
 |tool016|frida| |
 |tool017|阿春考试| |
+|tool018|微信sdk||
 
 ## py3-labs
 
