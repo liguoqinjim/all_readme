@@ -475,6 +475,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool016|frida| |
 |tool017|阿春考试| |
 |tool018|微信sdk||
+|tool019|华师大ocr||
 
 ## py3-labs
 
