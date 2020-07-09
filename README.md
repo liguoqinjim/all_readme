@@ -476,6 +476,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool017|阿春考试| |
 |tool018|微信sdk||
 |tool019|华师大ocr||
+|tool020|抖音|
 
 ## py3-labs
 
