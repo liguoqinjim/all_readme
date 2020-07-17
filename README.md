@@ -526,6 +526,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool022|工博士|爬虫项目|
 |tool023|vboly|爬虫项目|
 |tool024|大麦|爬虫项目|
+|tool025|zhaopin.com|爬虫项目|
 
 ## py2-labs
 
