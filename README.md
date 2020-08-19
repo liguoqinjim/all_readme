@@ -66,7 +66,7 @@
 |lab053|web.go| |
 |lab054|gjson| |
 |lab055|goworker,goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.|https://github.com/benmanns/goworker |
-|lab056|redis,Type-safe Redis client for Golang|https://github.com/go-redis/redis|
+|lab056|redis,Type-safe Redis client for Golang|https://github.com/go-redis/redis。 有用lua脚本的限流|
 |lab057|leaf| |
 |lab058|nsq| |
 |lab059|得到本机ip和公网ip| |
@@ -251,6 +251,7 @@
 |lab239|sentry-go,Official Sentry SDK for Go|https://github.com/getsentry/sentry-go|
 |lab240|go-qrcode,QR Code encoder (Go)|https://github.com/skip2/go-qrcode|
 |lab241|cobra,A Commander for modern Go CLI interactions|https://github.com/spf13/cobra|
+
 
 ## go-tools
 平时使用go写的一些程序
