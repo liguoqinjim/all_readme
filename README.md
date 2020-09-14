@@ -504,6 +504,9 @@ https://beego.me/docs/intro/upgrade.md
 |lab013|openpyxl|对xls的读写|
 |lab014|GeneralNewsExtractor|https://github.com/kingname/GeneralNewsExtractor|
 |lab015|captcha，A captcha library that generates audio and image CAPTCHAs.|https://github.com/lepture/captcha |
+|lab016|tushare，交易数据| |
+|lab017|akshare，交易数据| |
+|lab018|baostock，交易数据| |
 
 ## py2-tools
 
