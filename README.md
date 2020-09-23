@@ -403,6 +403,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool017|go_proxy_pool的支援代码||
 |tool018|frida||
 |tool019|爬虫项目|zhaopin|
+|tool020|爬虫项目|kuCity.js|
 
 ## js-labs
 
