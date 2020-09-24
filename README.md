@@ -485,7 +485,9 @@ https://beego.me/docs/intro/upgrade.md
 |tool018|微信sdk||
 |tool019|华师大ocr||
 |tool020|抖音|
-|tool021|阿春代码||
+|tool021|阿春代码| |
+|tool022|量化测试| |
+|tool023|掘金量化| |
 
 ## py3-labs
 
@@ -509,7 +511,8 @@ https://beego.me/docs/intro/upgrade.md
 |lab016|tushare，交易数据| |
 |lab017|akshare，交易数据| |
 |lab018|baostock，交易数据| |
-|lab019|判断文件是否存在| |
+|lab019|文件，文件夹相关| |
+|lab020|datetime| |
 
 ## py2-tools
 
