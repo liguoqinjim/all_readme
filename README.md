@@ -488,6 +488,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool021|阿春代码| |
 |tool022|量化测试| |
 |tool023|掘金量化| |
+|tool024|量化使用的数据| |
 
 ## py3-labs
 
