@@ -489,6 +489,8 @@ https://beego.me/docs/intro/upgrade.md
 |tool022|量化测试| |
 |tool023|掘金量化| |
 |tool024|量化使用的数据| |
+|tool025|zipline使用，https://github.com/geeeeeeeek/QuantStudy|TODO |
+|tool026|backtrader教程| |
 
 ## py3-labs
 
