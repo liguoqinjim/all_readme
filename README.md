@@ -492,6 +492,9 @@ https://beego.me/docs/intro/upgrade.md
 |tool025|zipline使用，https://github.com/geeeeeeeek/QuantStudy|TODO |
 |tool026|backtrader教程| |
 
+## TODO
+ - [文件保存成什么格式，csv，hdf，pickle](https://stackoverflow.com/questions/37010212/what-is-the-fastest-way-to-upload-a-big-csv-file-in-notebook-to-work-with-python)
+
 ## py3-labs
 
 |实验|简介|说明|
