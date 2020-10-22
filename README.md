@@ -327,6 +327,7 @@
 |tool065|bilibili||
 |tool066|国旗| |
 |tool067|同程酒店|爬虫项目|
+|tool068|steam显卡数据||
 
 ## go-playground
 
