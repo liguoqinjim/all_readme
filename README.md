@@ -581,6 +581,8 @@ https://beego.me/docs/intro/upgrade.md
 |lab016|demjson|https://github.com/dmeranda/demjson|
 |lab017|控制台打印中文||
 |lab018|lxml|https://github.com/lxml/lxml|
+|lab019|AES加密解密|TODO |
+|lab020|base64||
 
 ## linux_conf
 vim,zsh,tmux的配置文件
