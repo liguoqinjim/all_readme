@@ -330,8 +330,9 @@
 |tool065|bilibili||
 |tool066|国旗| |
 |tool067|同程酒店|爬虫项目|
-|tool068|steam显卡数据||
-|tool069|正在现场APP 抢票||
+|tool068|steam显卡数据| |
+|tool069|正在现场APP 抢票| |
+|tool070|好豆 |爬虫项目 |
 
 ## go-playground
 
@@ -411,7 +412,8 @@ https://beego.me/docs/intro/upgrade.md
 |tool019|爬虫项目|zhaopin|
 |tool020|爬虫项目|kuCity.js|
 |tool021|爬虫项目|同程旅游|
-|tool022|正在现场APP||
+|tool022|正在现场APP| |
+|tool023|爬虫项目|好豆 |
 
 ## js-labs
 
