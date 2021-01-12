@@ -417,6 +417,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool021|爬虫项目|同程旅游|
 |tool022|正在现场APP| |
 |tool023|爬虫项目|好豆 |
+|tool024|量化| |
 
 ## js-labs
 
@@ -690,6 +691,7 @@ vim,zsh,tmux的配置文件
 |tool007|nginx配置||
 |tool008|es集群的ssl和密码||
 |tool009|008的基础上自建集群|暂时没解决，es的ssl配置成功，但是kibana没有配置成功|
+|tool010|mongodb| |
 
 ## elk-labs
 elk的一些实践
