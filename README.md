@@ -418,6 +418,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool022|正在现场APP| |
 |tool023|爬虫项目|好豆 |
 |tool024|量化| |
+|tool025|同花顺| |
 
 ## js-labs
 
