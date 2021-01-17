@@ -259,6 +259,7 @@
 |lab247|循环的坑| |
 |lab248|serial,A Go package to allow you to read and write from the serial port as a stream of bytes.|https://github.com/tarm/serial|
 |lab249|go-serial,This is a package that allows you to read from and write to serial ports in Go.|https://github.com/jacobsa/go-serial|
+|lab250|gojieba,GoJieba是"结巴"中文分词的Golang语言版本|https://github.com/yanyiwu/gojieba|
 
 
 ## go-tools
@@ -336,6 +337,7 @@
 |tool068|steam显卡数据| |
 |tool069|正在现场APP 抢票| |
 |tool070|好豆 |爬虫项目 |
+|tool071|网易云音乐歌词| |
 
 ## go-playground
 
