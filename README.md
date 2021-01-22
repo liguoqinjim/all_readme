@@ -421,6 +421,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool023|爬虫项目|好豆 |
 |tool024|量化| |
 |tool025|网易云音乐| |
+|tool026|微词云| |
 
 ## js-labs
 
@@ -511,6 +512,7 @@ https://beego.me/docs/intro/upgrade.md
 |tool027|backtrader实验| |
 |tool028|baostock| |
 |tool029|量化-xbx| |
+|tool030|binchi| |
 
 ## TODO
  - [文件保存成什么格式，csv，hdf，pickle](https://stackoverflow.com/questions/37010212/what-is-the-fastest-way-to-upload-a-big-csv-file-in-notebook-to-work-with-python)
