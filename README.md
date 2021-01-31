@@ -547,6 +547,8 @@ https://beego.me/docs/intro/upgrade.md
 |lab023|usim800|串口通信 |
 |lab024|模型部署| |
 |lab025|flask| |
+|lab026|命令行参数| |
+|lab027||
 
 ## py2-tools
 
