@@ -264,6 +264,7 @@
 |lab252|notionapi,Unofficial Go API for Notion.so|https://github.com/kjk/notionapi|
 |lab253|gift,Go Image Filtering Toolkit|https://github.com/disintegration/gift|
 |lab254|tencentcloud-sdk-go,Tencent Cloud API 3.0 SDK for Golang|https://github.com/TencentCloud/tencentcloud-sdk-go|
+|lab255|sendgrid-go,The Official Twilio SendGrid Led, Community Driven Golang API Library|https://github.com/sendgrid/sendgrid-go|
 
 ## go-tools
 平时使用go写的一些程序
@@ -425,6 +426,8 @@ https://beego.me/docs/intro/upgrade.md
 |tool024|量化| |
 |tool025|网易云音乐| |
 |tool026|微词云| |
+|tool027|momentum| |
+|tool028|tailwind| |
 
 ## js-labs
 
@@ -633,6 +636,7 @@ vim,zsh,tmux的配置文件
 |tar.sh|把整个库打包|
 |linux_conf.tar.gz|打包完之后的库|
 |get_go_repos.sh|clone几个常用的golang的库|
+|nginx|几个nginx的配置| |
 
 ## 调用数据
 0. yum install -y git wget
