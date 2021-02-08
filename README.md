@@ -264,7 +264,7 @@
 |lab252|notionapi,Unofficial Go API for Notion.so|https://github.com/kjk/notionapi|
 |lab253|gift,Go Image Filtering Toolkit|https://github.com/disintegration/gift|
 |lab254|tencentcloud-sdk-go,Tencent Cloud API 3.0 SDK for Golang|https://github.com/TencentCloud/tencentcloud-sdk-go|
-|lab255|sendgrid-go,The Official Twilio SendGrid Led, Community Driven Golang API Library|https://github.com/sendgrid/sendgrid-go|
+|lab255|sendgrid-go,The Official Twilio SendGrid Led, Community Driven Golang API Library。邮件|https://github.com/sendgrid/sendgrid-go|
 
 ## go-tools
 平时使用go写的一些程序
@@ -519,6 +519,8 @@ https://beego.me/docs/intro/upgrade.md
 |tool028|baostock| |
 |tool029|量化-xbx| |
 |tool030|binchi| |
+|tool031|momentum| |
+|tool032|tinyletter| |
 
 ## TODO
  - [文件保存成什么格式，csv，hdf，pickle](https://stackoverflow.com/questions/37010212/what-is-the-fastest-way-to-upload-a-big-csv-file-in-notebook-to-work-with-python)
@@ -553,7 +555,9 @@ https://beego.me/docs/intro/upgrade.md
 |lab024|模型部署| |
 |lab025|flask| |
 |lab026|命令行参数| |
-|lab027||
+|lab027|notion| |
+|lab028|tinyapi,Python wrapper around TinyLetter's publicly accessible — but undocumented — API.|https://github.com/jsvine/tinyapi|
+
 
 ## py2-tools
 
